@@ -7,7 +7,7 @@
     "Microsoft.VisualStudio.GraphModel": "15.0.26127-alpha",
     "Microsoft.VisualStudio.ComponentModelHost": "15.0.26127-alpha",
     "Microsoft.VisualStudio.Diagnostics.PerformanceProvider": "15.0.26127-alpha",
-    "Microsoft.VisualStudio.Shell.Design": "15.0.26127-alpha"
+    "Microsoft.VisualStudio.Shell.Design": "15.0.26201-alpha"
   },
   "frameworks": {
     "net46": {}
